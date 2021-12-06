@@ -1,0 +1,6 @@
+logs/*
+.metadata
+.settings
+.project
+bin
+target
